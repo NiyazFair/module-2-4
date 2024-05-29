@@ -15,8 +15,8 @@ for i in numbers:
         primes.append(i)
     elif count >= 3:
         not_primes.append(i)
-print(primes)
-print(not_primes)
+print('Primes:', primes)
+print('Not Primes:', not_primes)
 
 
 
